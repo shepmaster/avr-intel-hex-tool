@@ -1,0 +1,13 @@
+[package]
+name = "avr-intel-hex-tool"
+version = "0.1.0"
+authors = ["Jake Goulding <jake.goulding@gmail.com>"]
+
+description = "A tool to interact with Intel HEX files for the AVR"
+readme = "README.md"
+keywords = ["avr", "hex"]
+
+homepage = "https://github.com/shepmaster/avr-intel-hex-tool"
+repository = "https://github.com/shepmaster/avr-intel-hex-tool"
+
+license = "MIT"
